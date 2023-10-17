@@ -12,8 +12,17 @@ mostFrequentWord("How much wood could a wood chuck chuck") // "wood" OR "chuck"
 ***********************************************************************/
 
 function mostFrequentWord(string) {
-    // Your code here 
+    // Your code here
+    let words = string.split(' ');
+    for (let i = 0; i < words.length; i++) {
+        if (!string[i].includes()) {
+
+        }
+    }
 }
+
+console.log(mostFrequentWord('I cant believe its not butter'))
+
 
 
 

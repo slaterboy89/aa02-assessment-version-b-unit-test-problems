@@ -18,7 +18,11 @@ addToArray3('77 6f 72 6c 64'); // ['48 65 6c 6c 6f', '77 6f 72 6c 64']
 ***********************************************************************/
 
 function pushCreator(arr) {
-  // Your code here 
+  // Your code here
+ function newFunc() {
+
+ }
+ return newFunc;
 }
 
 /**************DO NOT MODIFY ANYTHING UNDER THIS  LINE*****************/
